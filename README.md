@@ -42,10 +42,10 @@
 ###
 
 <p align="left">
-  Student of Systems Development<br>
-  Currently studying programming and Frontend development<br>
-  Always looking to learn new technologies and improve my skills<br>
-  Focused on turning knowledge into real projects
+  Estudante de Análise e Desenvolvimento de Sistemas.<br>
+  Atualmente estudando programação e desenvolvimento Frontend.<br>
+  Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.<br>
+  Focado em transformar conhecimento em projetos reais.
 </p>
 
 ###
