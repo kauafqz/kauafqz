@@ -1,10 +1,10 @@
-<h1 align="center">Hello World! I'm Kauã Queiroz 👋</h1>
+<h1 align="center">Hello World! I'm Kauã França</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">💻 Developer in Training | Frontend & Programming</h3>
+<h3 align="center">Developer in Training | Frontend & Programming</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left"> Development</h2>
+<h2 align="left">Development</h2>
 
 ###
 
@@ -35,12 +35,16 @@
 
 <br clear="both">
 
-<h2 align="left">📚 About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">
-
+  Student of Systems Development<br>
+  Currently studying programming and Frontend development<br>
+  Always looking to learn new technologies and improve my skills<br>
+  Focused on turning knowledge into real projects
+</p>
 
 ###
 
@@ -50,7 +54,7 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 ###
 
@@ -66,7 +70,7 @@
 
 <br clear="both">
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">GitHub Streak</h2>
 
 ###
 
@@ -92,17 +96,17 @@
 
 ###
 
-<h2 align="center">🤝 Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
 ###
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+  <a href="https://www.instagram.com/kauafqz_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:kaua.franca.queiroz0510@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 
@@ -120,4 +124,4 @@
 
 ###
 
-<h3 align="center">💡 "Any doubt, I'm at your disposal!"</h3>
+<h3 align="center">"Any doubt, I'm at your disposal!"</h3>
