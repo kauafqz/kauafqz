@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello World! I'm Kauã Queiroz 👋</h1>
 
 ###
@@ -16,7 +14,7 @@
 
 ###
 
-<h2 align="left">🚀 Development</h2>
+<h2 align="left"> Development</h2>
 
 ###
 
@@ -42,11 +40,7 @@
 ###
 
 <p align="left">
-  🎓 Student of Systems Development<br>
-  💻 Currently studying programming and Frontend development<br>
-  🚀 Always looking to learn new technologies and improve my skills<br>
-  🎯 Focused on turning knowledge into real projects
-</p>
+
 
 ###
 
