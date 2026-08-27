@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  <a href="SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-queiroz-956709315/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
 
