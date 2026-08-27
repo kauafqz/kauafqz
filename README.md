@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Kauã França</h1>
+<h1 align="center">Hello World! I'm Kauã Queiroz</h1>
 
 ###
 
@@ -9,12 +9,14 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
 </div>
 
 ###
 
-<h2 align="left">Development</h2>
+<br clear="both">
+
+<h3 align="left">Development</h3>
 
 ###
 
@@ -22,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="25" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
   <img width="25" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
@@ -49,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
 </div>
 
 ###
@@ -71,16 +73,6 @@
   <a href="https://www.instagram.com/kauafqz_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-
-</div>
-
-###
-
-<br>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 
 </div>
 
