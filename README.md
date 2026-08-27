@@ -60,3 +60,27 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%" />
+</div>
+
+###
+
+<h2 align="center">GitHub Contributions</h2>
+
+###
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+###
