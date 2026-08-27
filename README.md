@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hello World! I'm Kauã França 👋</h1>
+<h1 align="center">Hello World! I'm Kauã Queiroz 👋</h1>
 
 ###
 
