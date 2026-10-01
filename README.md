@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Developer in Training | Frontend & Programming</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Front-end | UI/UX</h3>
 
 ###
 
