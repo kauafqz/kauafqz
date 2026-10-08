@@ -47,10 +47,10 @@
 ###
 
 <p align="left">
-  Estudante de Análise e Desenvolvimento de Sistemas.<br>
-  Atualmente estudando programação e desenvolvimento Frontend.<br>
-  Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.<br>
-  Focado em transformar conhecimento em projetos reais.
+  Sou estudante de Análise e Desenvolvimento de Sistemas, construindo minha trajetória na área de tecnologia e buscando transformar conhecimento em prática.
+Tenho interesse especial em Front-end e UI/UX Design, unindo programação e criatividade para desenvolver interfaces modernas, intuitivas e funcionais.
+Atualmente, estudo HTML, CSS, JavaScript, Python e C, enquanto também exploro conceitos de design, acessibilidade e experiência do usuário.
+Gosto de aprender na prática, transformar ideias em projetos e entender como a tecnologia pode ser utilizada para resolver problemas reais.
 </p>
 
 ###
